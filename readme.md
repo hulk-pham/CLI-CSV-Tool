@@ -1,4 +1,4 @@
-### Propine exam solution
+### CLI Application
 
 #### Idea
 
